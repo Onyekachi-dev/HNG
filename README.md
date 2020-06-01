@@ -1,2 +1,1 @@
-# HNG
 # Hello-HNG
